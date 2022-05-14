@@ -1,1 +1,1 @@
-TestNinja
+Unit testing project using NUnit
